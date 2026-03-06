@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1772588258,
+        "name": "Asare Overmass",
+        "email": "obidofov0597@gmail.com",
+        "password": "$2y$10$3J2lvndiPhZ\/XJTooRqYaOsEY1xx\/uqQ2Yxyoq\/onyfB9Xw\/w\/Y5a",
+        "role": "user",
+        "profile_pic": "https:\/\/ui-avatars.com\/api\/?name=Asare+Overmass",
+        "registered_events": []
+    },
+    {
+        "id": 1772763902,
+        "name": "Asare Overmass",
+        "email": "asareovermass0597@gmail.com",
+        "password": "$2y$10$yZwU4cbCvuQOnMm9NpRUuOJKSxo3kFZbSXI23Yj\/FG8nce7ulc2I6",
+        "role": "member",
+        "profile_pic": "https:\/\/ui-avatars.com\/api\/?name=Asare+Overmass"
+    },
+    {
+        "id": 1772764570,
+        "name": "Asare Overmass",
+        "email": "desmond@gmail.com",
+        "password": "$2y$10$X0.Afgnx3zXCrGiTidDtCeQogKWj3l6Z1RZu9u8XPwHGvYT0NLefa",
+        "role": "member",
+        "profile_pic": "https:\/\/ui-avatars.com\/api\/?name=Asare+Overmass"
+    },
+    {
+        "id": 1772830681,
+        "name": "Michael Ankrah",
+        "email": "atomlockson49@gmail.com",
+        "password": "$2y$10$mopemc5uer6tzeJ9sEqHreWjsCBAFv7XbJhroxefyBnQD7NWV8xZi",
+        "role": "member",
+        "profile_pic": "https:\/\/ui-avatars.com\/api\/?name=Michael+Ankrah"
+    }
+]
